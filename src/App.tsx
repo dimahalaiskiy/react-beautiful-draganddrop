@@ -1,32 +1,37 @@
 import React, { useState } from 'react';
 import './App.css';
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
+import cato from './images/cato.png';
+import gary from './images/gary.png';
+import kvn from './images/kvn.png';
+import mooncake from './images/mooncake.png';
+import quinn from './images/quinn.png';
 
 const finalSpaceCharacters = [
   {
     id: 'gary',
     name: 'Gary Goodspeed',
-    thumb: '/images/gary.png',
+    thumb: gary,
   },
   {
     id: 'cato',
     name: 'Little Cato',
-    thumb: '/images/cato.png',
+    thumb: cato,
   },
   {
     id: 'kvn',
     name: 'KVN',
-    thumb: '/images/kvn.png',
+    thumb: kvn,
   },
   {
     id: 'mooncake',
     name: 'Mooncake',
-    thumb: '/images/mooncake.png',
+    thumb: mooncake,
   },
   {
     id: 'quinn',
     name: 'Quinn Ergon',
-    thumb: '/images/quinn.png',
+    thumb: quinn,
   },
 ];
 
