@@ -1,15 +1,20 @@
 {
   "files": {
     "main.css": "/react-beautiful-draganddrop/static/css/main.77f65aff.css",
-    "main.js": "/react-beautiful-draganddrop/static/js/main.3a040238.js",
+    "main.js": "/react-beautiful-draganddrop/static/js/main.e669be1e.js",
     "static/js/787.52acda8d.chunk.js": "/react-beautiful-draganddrop/static/js/787.52acda8d.chunk.js",
+    "static/media/gary.png": "/react-beautiful-draganddrop/static/media/gary.3e060e35a7ff2fd51507.png",
+    "static/media/cato.png": "/react-beautiful-draganddrop/static/media/cato.2ab277cae7c2f4e26111.png",
+    "static/media/mooncake.png": "/react-beautiful-draganddrop/static/media/mooncake.dcc0d5994dc36d64c067.png",
+    "static/media/quinn.png": "/react-beautiful-draganddrop/static/media/quinn.da34e8682a154968dc7d.png",
+    "static/media/kvn.png": "/react-beautiful-draganddrop/static/media/kvn.e55b32cdde0051ed2d35.png",
     "index.html": "/react-beautiful-draganddrop/index.html",
     "main.77f65aff.css.map": "/react-beautiful-draganddrop/static/css/main.77f65aff.css.map",
-    "main.3a040238.js.map": "/react-beautiful-draganddrop/static/js/main.3a040238.js.map",
+    "main.e669be1e.js.map": "/react-beautiful-draganddrop/static/js/main.e669be1e.js.map",
     "787.52acda8d.chunk.js.map": "/react-beautiful-draganddrop/static/js/787.52acda8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77f65aff.css",
-    "static/js/main.3a040238.js"
+    "static/js/main.e669be1e.js"
   ]
 }
